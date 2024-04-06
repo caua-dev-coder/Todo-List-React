@@ -2,8 +2,7 @@
 Este projeto foi criado para demonstrar minhas habilidades no desenvolvimento de aplicativos React, com foco principal em JavaScript e menos ênfase em design.
 
 <br>
-<img src="./imgsReadme/CafennasCofe.gif" alt="Gif do site Cafenas Coffe">
-<br>
+<img src="./imgsReadme/TodoReact.gif" alt="Gif do site Cafenas Coffe">
 
 <h2>Ferramentas empregadas na construção do site:</h2>
 <div>
