@@ -6,8 +6,11 @@ Este projeto foi criado para demonstrar minhas habilidades no desenvolvimento de
 <br>
 
 <h2>Ferramentas empregadas na construção do site:</h2>
+<div>
 <img src="./imgsReadme/ReactLoog.png" alt="Imagem das ferramentas usadas" width="100px">
 <img src="./imgsReadme/JavaScript_logo_PNG_(7).png" alt="Imagem das ferramentas usadas" width="170px">
+</div>
+
 
 <h2>Desafios que enfrentei nesse projeto:</h2>
 Neste projeto, deparei-me com desafios ao implementar a funcionalidade de marcar um item da lista como concluído e a função para excluí-lo. Utilizei o método `map` para realizar a marcação e o `filter` para exclusão dos itens. Após superar esses desafios, pude compreender e corrigir alguns erros cometidos durante o processo.
